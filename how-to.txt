@@ -1,0 +1,9 @@
+Git init
+
+Git add {file name}
+
+Git commit –m “commit”
+
+Git remote add origin (url)
+
+Git push -u origin master
